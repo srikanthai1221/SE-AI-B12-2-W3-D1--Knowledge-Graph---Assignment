@@ -1,0 +1,671 @@
+{
+  "entities": [
+    {
+      "name": "Agriculture - Farmers Welfare Department",
+      "type": "Department",
+      "description": "A government department focused on agricultural welfare.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Training to Farmers",
+      "type": "Scheme",
+      "description": "A scheme providing training to farmers.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Farmers",
+      "type": "Beneficiary",
+      "description": "The individuals receiving training under the scheme.",
+      "chunk_ids": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "Training",
+      "type": "Benefit",
+      "description": "The type of support provided to farmers.",
+      "chunk_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "name": "Production of Foundation and Certified Seeds",
+      "type": "Scheme",
+      "description": "A scheme for producing foundation and certified seeds.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Production of Foundation Seeds",
+      "type": "Scheme",
+      "description": "A scheme focused on the production of foundation seeds.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Distribution of Nuclear Poly Hedrosis Virus",
+      "type": "Scheme",
+      "description": "A scheme for distributing nuclear poly hedrosis virus.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Distribution of Rhizobium Packets - Oilseeds",
+      "type": "Scheme",
+      "description": "A scheme for distributing rhizobium packets specifically for oilseeds.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Rhizobium Packets",
+      "type": "Benefit",
+      "description": "The benefit provided under the scheme.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Oilseeds",
+      "type": "Crop",
+      "description": "The crop group targeted by the rhizobium packets scheme.",
+      "chunk_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "name": "Livelihood activities for asset less persons-2012",
+      "type": "Scheme",
+      "description": "A scheme aimed at providing livelihood activities for asset-less persons.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Infrastructure subsidy for Privately Developed Industrial Estates",
+      "type": "Scheme",
+      "description": "A scheme providing infrastructure subsidies for industrial estates.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Distribution of Gypsum",
+      "type": "Scheme",
+      "description": "A scheme for distributing gypsum.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Distribution of manually operated Plant Protection Equipment",
+      "type": "Scheme",
+      "description": "A scheme for distributing plant protection equipment.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Pipes carrying water from source to field - Pulses ISPOM",
+      "type": "Scheme",
+      "description": "A scheme for distributing pipes for irrigation.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Pulses",
+      "type": "Crop",
+      "description": "The crop group associated with the irrigation pipes scheme.",
+      "chunk_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "name": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector",
+      "type": "Scheme",
+      "description": "A fund for developing cleaner and efficient technologies.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Distribution of Rhizobium",
+      "type": "Scheme",
+      "description": "A scheme for distributing rhizobium.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Distribution of Soil Health card",
+      "type": "Scheme",
+      "description": "A scheme for distributing soil health cards.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+      "type": "Scheme",
+      "description": "A scheme providing rebates for stamp duty and registration.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Training of Farmers on Pulses Production Technologies",
+      "type": "Scheme",
+      "description": "A scheme providing training on pulses production.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Subsidy on the assessed Value Added Tax (VAT)",
+      "type": "Scheme",
+      "description": "A scheme providing subsidies on VAT.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Distribution of Certified seeds - Oil Seeds",
+      "type": "Scheme",
+      "description": "A scheme for distributing certified seeds for oil seeds.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+      "type": "Scheme",
+      "description": "A scheme integrated for oilseeds, oilpalm, and maize.",
+      "chunk_ids": [
+        0
+      ]
+    },
+    {
+      "name": "Quality Paddy seed Distribution",
+      "type": "Scheme",
+      "description": "A scheme for distributing quality paddy seeds.",
+      "chunk_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "name": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+      "type": "Scheme",
+      "description": "A scheme reserving space for small enterprises in industrial estates.",
+      "chunk_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "name": "Organizing Block  Demonstration through  Department and also  through TNAU",
+      "type": "Scheme",
+      "description": "A scheme for organizing block demonstrations.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Generator subsidy",
+      "type": "Scheme",
+      "description": "A subsidy scheme for generators.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Production of Certified Seeds",
+      "type": "Scheme",
+      "description": "A scheme for the production of certified seeds.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+      "type": "Scheme",
+      "description": "A scheme for organizing block demonstrations on polythene mulch technology in groundnut.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Special capital subsidy for thrust sector enterprises",
+      "type": "Scheme",
+      "description": "A special capital subsidy scheme for thrust sector enterprises.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Distribution of Minikits  at free of cost",
+      "type": "Scheme",
+      "description": "A scheme for distributing minikits free of cost.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+      "type": "Scheme",
+      "description": "A rebate scheme on stamp duty and registration charges for privately developed industrial estates.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Unemployed Youth Employment Generation Programme (UYEGP)",
+      "type": "Scheme",
+      "description": "A programme aimed at generating employment for unemployed youth.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+      "type": "Scheme",
+      "description": "A scheme for the multiplication of seeds for various crops.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Price Preference for Micro and Small Enterprises in Government purchases",
+      "type": "Scheme",
+      "description": "A scheme providing price preference for MSMEs in government purchases.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Farmers Training",
+      "type": "Scheme",
+      "description": "A training scheme for farmers.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Farm Production System and micro enterprises - Sponsored By State Govt",
+      "type": "Scheme",
+      "description": "A scheme for farm production systems and micro enterprises sponsored by the state government.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Waiver of Earnest Money Deposit for participation in Tenders",
+      "type": "Scheme",
+      "description": "A scheme waiving earnest money deposits for tender participation.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Distribution of Certified  Seeds of maize",
+      "type": "Scheme",
+      "description": "A scheme for distributing certified seeds of maize.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Subsidy on the cost of Patent Registration in India or abroad",
+      "type": "Scheme",
+      "description": "A subsidy scheme for patent registration costs.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Organizing Block Demonstration",
+      "type": "Scheme",
+      "description": "A scheme for organizing block demonstrations.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+      "type": "Scheme",
+      "description": "A reservation scheme for micro enterprises in TANSIDCO industrial estates.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+      "type": "Scheme",
+      "description": "A reimbursement scheme for hall rent for MSME exhibitions.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+      "type": "Scheme",
+      "description": "A term loan scheme for micro and small enterprises.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Low Tension power tariff subsidy",
+      "type": "Scheme",
+      "description": "A subsidy scheme for low tension power tariffs.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+      "type": "Scheme",
+      "description": "A subsidy scheme for trademark registration costs.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Farmers Interest Group  (FIG)",
+      "type": "Scheme",
+      "description": "A scheme for farmers' interest groups.",
+      "chunk_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Pipes carrying water  from source to field",
+      "type": "Scheme",
+      "description": "A scheme for providing pipes to carry water from source to field.",
+      "chunk_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Term loan obtained for Technology upgradation / modernisation schemes",
+      "type": "Scheme",
+      "description": "A term loan scheme for technology upgradation and modernization.",
+      "chunk_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Paddy",
+      "type": "Crop",
+      "description": "A crop included in various seed multiplication schemes.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Millets",
+      "type": "Crop",
+      "description": "A crop included in the seed multiplication scheme.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Cotton",
+      "type": "Crop",
+      "description": "A crop included in the seed multiplication scheme.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Groundnut",
+      "type": "Crop",
+      "description": "A crop mentioned in the block demonstration on polythene mulch technology.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Minikits",
+      "type": "Benefit",
+      "description": "Free kits distributed under a specific scheme.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Certified Seeds",
+      "type": "Benefit",
+      "description": "Seeds that are certified and distributed under various schemes.",
+      "chunk_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Subsidy",
+      "type": "Benefit",
+      "description": "Financial assistance provided under various schemes.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Rebate",
+      "type": "Benefit",
+      "description": "A reduction in costs for stamp duty and registration charges.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Term loan",
+      "type": "Benefit",
+      "description": "A loan provided under specific schemes for enterprises.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Waiver",
+      "type": "Benefit",
+      "description": "The cancellation of earnest money deposits for tenders.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Employment Generation",
+      "type": "Activity",
+      "description": "An activity aimed at creating jobs for unemployed youth.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Demonstration",
+      "type": "Activity",
+      "description": "An activity involving the demonstration of agricultural techniques.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Distribution",
+      "type": "Activity",
+      "description": "An activity involving the distribution of seeds and kits.",
+      "chunk_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Training to Farmers",
+      "type": "Activity",
+      "description": "An activity focused on training farmers.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Reimbursement",
+      "type": "Activity",
+      "description": "An activity involving the reimbursement of costs for exhibitions.",
+      "chunk_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Livelihood activities for asset less persons - Sponsored By State Govt",
+      "type": "Scheme",
+      "description": "Government-sponsored activities to support those without assets.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+      "type": "Scheme",
+      "description": "Programs aimed at enhancing skills through training.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Micro Nutrient spray",
+      "type": "Scheme",
+      "description": "Application of micro nutrients to enhance crop growth.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+      "type": "Scheme",
+      "description": "Financial assistance through a credit guarantee scheme.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+      "type": "Scheme",
+      "description": "Field visits for contract farmers to research stations.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+      "type": "Scheme",
+      "description": "Financial support for obtaining ISO certification and research.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Integrated Pest  Management Demonstration  cum Training",
+      "type": "Scheme",
+      "description": "Training and demonstration for managing pests sustainably.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Stamp duty exemption on mortgaged and pledged documents",
+      "type": "Scheme",
+      "description": "Exemption from stamp duty for certain financial documents.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Distribution of Gypsum - Oil Seeds",
+      "type": "Scheme",
+      "description": "Distribution of gypsum specifically for oilseed crops.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Production of Certified  Seeds of Maize",
+      "type": "Scheme",
+      "description": "Production of certified seeds for maize cultivation.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Oil Seeds",
+      "type": "Crop",
+      "description": "A category of crops that includes various oilseed plants.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Gypsum",
+      "type": "Benefit",
+      "description": "A soil amendment distributed to improve crop yield.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Training",
+      "type": "Activity",
+      "description": "Educational programs aimed at improving skills.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Livelihood activities",
+      "type": "Activity",
+      "description": "Activities aimed at improving the economic status of individuals.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Skill Development",
+      "type": "Activity",
+      "description": "Efforts to enhance the skills of individuals for better employment.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Pest Management",
+      "type": "Activity",
+      "description": "Activities focused on controlling pests in agriculture.",
+      "chunk_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Research",
+      "type": "Activity",
+      "description": "Investigative activities aimed at improving agricultural practices.",
+      "chunk_ids": [
+        2
+      ]
+    }
+  ]
+}
